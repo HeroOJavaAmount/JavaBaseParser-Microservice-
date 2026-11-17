@@ -308,7 +308,7 @@ MIT. Проект для портфолио и учебных целей.
 
 ## Автор
 
-[Твоё имя] — [ссылка на GitHub / LinkedIn]
+[HeroOJavaAmount] — [github.com/HeroOJavaAmount/JavaBaseParser-Microservice-.git / LinkedIn]
 ```
 
 
