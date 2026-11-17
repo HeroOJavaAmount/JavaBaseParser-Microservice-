@@ -1,0 +1,13 @@
+target/
+.git/
+.gitignore
+.idea/
+*.iml
+out/
+audit/
+test-in/
+Dockerfile
+docker-compose*.yml
+README.md
+ACTION.md
+RunProgramm.md

@@ -1,0 +1,75 @@
+# IDE
+.gigaide/
+.vscode/
+.idea/
+
+# Personal notes (не публикуем)
+ChtoOstalos.MD
+JavaDoc.MD
+JsonB.MD
+Kafka.MD
+MarkDown.MD
+PlanProg.MD
+READMEOne.MD
+Serialization.MD
+Arhitectyra.MD
+HackerWar.md
+ReadMeAttack.md
+TestTable.MD
+LoadTest.MD
+
+# PDF-книги
+src/main/resources/*Kafka*.pdf
+
+# Локальные результаты
+Errors/
+test-in/
+out/
+audit/
+META-INF/
+
+# ─── Maven ───
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ─── Результаты парсера ───
+out/
+audit/
+test-in/
+*.jsonl
+demo-*.txt
+
+# ─── IDE ───
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+*.log
+
+# ─── Секреты (НИКОГДА не коммитить!) ───
+.env
+.env.*
+*.key
+*.pem
+secrets/
+application-local.properties
+application-local.yml
+
+# ─── Docker ───
+*.tar

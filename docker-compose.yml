@@ -1,0 +1,15 @@
+services:
+  parser:
+    build: .
+    image: pdf-parser:1.0
+    ports:
+      - "8080:8080"
+    environment:
+      PARSER_MODE: http
+      PARSER_AUTH_SECRET: "change-me-32-bytes-minimum-secret-key-please"
+      PARSER_AUTH_TTL_MINUTES: "60"
+    volumes:
+      - ./data/in:/in
+      - ./data/out:/out
+      - ./data/audit:/audit
+    restart: unless-stopped
