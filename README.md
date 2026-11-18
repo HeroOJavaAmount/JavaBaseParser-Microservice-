@@ -1,5 +1,5 @@
 ## CI/CD [![CI Status](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/HeroOJavaAmount/pdf-base-parser/actions)
-✅ Continuous Integration: Configured via GitHub Actions. Every commit triggers a full build and test run (55+ tests passed). Build status: [[![CI](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml)].
+✅ Continuous Integration: Configured via GitHub Actions. Every commit triggers a full build and test run (55+ tests passed). Build status: [[![CI](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg?branch=master))].
 
 # Simple(Base) Parser — PDF Parsing Microservice
 Java-приложение для извлечения структурированных данных из PDF-документов.
