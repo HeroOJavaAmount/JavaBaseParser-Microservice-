@@ -1,4 +1,4 @@
-[![CI](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml)
+[![CI](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml) </br>
 ✅ Continuous Integration: Configured via GitHub Actions. Every commit triggers a full build and test run (55+ tests passed). Build status: [Badge со статусом].
 
 # Simple(Base) Parser — PDF Parsing Microservice
