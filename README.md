@@ -1,5 +1,5 @@
-[![CI](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml) </br>
-✅ Continuous Integration: Configured via GitHub Actions. Every commit triggers a full build and test run (55+ tests passed). Build status: [Badge со статусом].
+[![CI](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml) </br>
+✅ Continuous Integration: Configured via GitHub Actions. Every commit triggers a full build and test run (55+ tests passed). Build status: [[![CI](https://github.com/HeroOJavaAmount/pdf-base-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/ТВОЙ_НИК/pdf-base-parser/actions/workflows/ci.yml)].
 
 # Simple(Base) Parser — PDF Parsing Microservice
 Java-приложение для извлечения структурированных данных из PDF-документов.
