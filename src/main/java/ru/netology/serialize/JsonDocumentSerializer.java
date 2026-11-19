@@ -11,7 +11,7 @@ public class JsonDocumentSerializer implements DocumentSerializer {
     private final ObjectMapper mapper = new ObjectMapper()
             .registerModule(new JavaTimeModule())
             .disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
-            .enable(SerializationFeature.INDENT_OUTPUT);// Когда пойдёшь в прод — убери INDENT_OUTPUT (компактнее в сети).
+            .enable(SerializationFeature.INDENT_OUTPUT);// Когда прод — уберем INDENT_OUTPUT (компактнее в сети).
 
     @Override
     public String serialize(Document document) {
